@@ -1,0 +1,63 @@
+# ============================================================
+# Chess Agent Configuration
+# Optimized for Apple Silicon Mac Mini (M2/M4)
+# ============================================================
+
+model:
+  # Neural network architecture
+  num_residual_blocks: 10      # Depth of residual tower (AlphaZero used 19-40)
+  num_filters: 128             # Filters per conv layer (AlphaZero used 256)
+  input_planes: 18             # Board encoding depth
+  policy_output_size: 4672     # 8x8x73 action space
+  l2_reg: 1.0e-4               # L2 weight regularization
+
+training:
+  learning_rate: 0.01          # Initial LR (SGD with momentum)
+  momentum: 0.9                # SGD momentum
+  weight_decay: 1.0e-4         # Weight decay
+  batch_size: 256              # Training batch size
+  epochs_per_cycle: 1          # Epochs per training cycle
+  dataset_window: 500000       # Max positions to keep in replay buffer
+  min_positions_to_train: 10000  # Min positions before first training
+  lr_milestones: [100, 200, 300]  # Cycle milestones for LR decay
+  lr_gamma: 0.1                # LR decay factor at milestones
+  checkpoint_interval: 10      # Save model every N training cycles
+  use_mixed_precision: true    # Use AMP for faster training
+
+self_play:
+  num_games_per_cycle: 100     # Games to generate per self-play cycle
+  num_parallel_games: 4        # Concurrent games (tune for your CPU cores)
+  num_simulations: 200         # MCTS simulations per move (AlphaZero used 800)
+  c_puct: 2.5                  # PUCT exploration constant
+  dirichlet_alpha: 0.3         # Dirichlet noise parameter (0.3 for chess)
+  dirichlet_epsilon: 0.25      # Fraction of noise to mix with prior
+  temperature: 1.0             # Move selection temperature
+  temp_threshold_move: 30      # Switch to deterministic after this move
+  max_game_length: 512         # Max half-moves before declaring draw
+  resign_threshold: -0.95      # Resign if value below this
+  resign_check_min_move: 10    # Don't resign before this move
+
+arena:
+  num_games: 40                # Games to play for model comparison
+  win_threshold: 0.55          # Win rate needed to replace champion
+  num_simulations: 200         # MCTS sims for arena games
+
+lichess:
+  token: ""                    # Your Lichess Bot API token (set via env LICHESS_TOKEN)
+  bot_name: ""                 # Your Lichess bot username
+  num_simulations: 400         # MCTS sims for online games (higher = stronger)
+  time_controls:               # Accept these time controls
+    - bullet
+    - blitz
+    - rapid
+  rated: true                  # Play rated games
+  max_concurrent_games: 1      # Max games at once
+  challenge_rating_range: 400  # Accept challenges within +/- this range
+  auto_challenge: true        # Automatically seek games
+  auto_challenge_interval: 30  # Seconds between auto-challenges
+
+system:
+  device: "auto"               # "auto", "mps", "cuda", "cpu"
+  num_workers: 4               # DataLoader workers
+  seed: 42                     # Random seed
+  log_level: "INFO"

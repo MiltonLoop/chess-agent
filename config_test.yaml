@@ -1,0 +1,55 @@
+arena:
+  num_games: 40
+  num_simulations: 200
+  win_threshold: 0.55
+lichess:
+  auto_challenge: false
+  auto_challenge_interval: 60
+  bot_name: ''
+  challenge_rating_range: 400
+  max_concurrent_games: 1
+  num_simulations: 400
+  rated: true
+  time_controls:
+  - bullet
+  - blitz
+  - rapid
+  token: ''
+model:
+  input_planes: 18
+  l2_reg: 0.0001
+  num_filters: 32
+  num_residual_blocks: 2
+  policy_output_size: 4672
+self_play:
+  c_puct: 2.5
+  dirichlet_alpha: 0.3
+  dirichlet_epsilon: 0.25
+  max_game_length: 60
+  num_games_per_cycle: 3
+  num_parallel_games: 4
+  num_simulations: 15
+  resign_check_min_move: 10
+  resign_threshold: -0.95
+  temp_threshold_move: 30
+  temperature: 1.0
+system:
+  device: cpu
+  log_level: INFO
+  num_workers: 4
+  seed: 42
+training:
+  batch_size: 16
+  checkpoint_interval: 10
+  dataset_window: 500000
+  epochs_per_cycle: 1
+  learning_rate: 0.01
+  lr_gamma: 0.1
+  lr_milestones:
+  - 100
+  - 200
+  - 300
+  min_positions_to_train: 10
+  momentum: 0.9
+  use_mixed_precision: true
+  weight_decay: 0.0001

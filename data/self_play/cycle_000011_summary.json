@@ -1,0 +1,10 @@
+{
+  "cycle": 11,
+  "num_games": 100,
+  "results": {
+    "white": 1,
+    "black": 1,
+    "draw": 98
+  },
+  "simulations_per_move": 200
+}

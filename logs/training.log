@@ -1,0 +1,25 @@
+2026-02-11 00:46:05,775 [INFO] train: Using device: cpu
+2026-02-11 00:46:05,775 [INFO] train: Creating new model...
+2026-02-11 00:46:05,835 [INFO] src.model: Created model with 9,633,315 params on cpu
+2026-02-11 00:46:06,731 [INFO] src.model: Model saved to data/models/champion.pt
+2026-02-11 00:46:06,732 [INFO] train: Model: 9,633,315 parameters
+2026-02-11 00:46:07,458 [INFO] train: ============================================================
+2026-02-11 00:46:07,458 [INFO] train: Starting AlphaZero training loop
+2026-02-11 00:46:07,459 [INFO] train: ============================================================
+2026-02-11 00:46:07,459 [INFO] train: 
+============================================================
+2026-02-11 00:46:07,459 [INFO] train: CYCLE 0
+2026-02-11 00:46:07,459 [INFO] train: ============================================================
+2026-02-11 00:46:07,459 [INFO] train: Step 1: Self-play game generation
+2026-02-11 00:46:07,460 [INFO] src.self_play: Self-play cycle 0: generating 3 games...
+2026-02-11 00:46:15,292 [INFO] src.self_play: Self-play cycle 0 complete: 3 games in 7.8s, 162 positions. W:2 B:0 D:1
+2026-02-11 00:46:15,306 [INFO] src.self_play: Training data saved to data/self_play/cycle_000000.npz
+2026-02-11 00:46:15,307 [INFO] train: Replay buffer size: 162
+2026-02-11 00:46:15,307 [INFO] train: Step 2: Neural network training
+2026-02-11 00:46:15,536 [INFO] src.trainer: Training cycle 1: loss=8.9344 (policy=8.5001, value=0.4343), lr=0.010000, 10 batches, 162 positions
+2026-02-11 00:46:16,368 [INFO] src.model: Model saved to data/models/champion.pt
+2026-02-11 00:46:18,046 [INFO] src.model: Model saved to data/models/trainer_state.pt
+2026-02-11 00:46:18,808 [INFO] src.model: Model saved to data/models/checkpoint_cycle_000000.pt
+2026-02-11 00:46:18,809 [INFO] train: Cycle 0 complete in 11.3s
+2026-02-11 00:46:18,809 [INFO] train: 
+Training complete!

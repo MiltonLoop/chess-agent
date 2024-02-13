@@ -1,0 +1,28 @@
+{
+  "game_id": "S7NVT2dq",
+  "moves": [
+    "d2d4",
+    "e7e6",
+    "e1d2",
+    "d7d5",
+    "b1a3",
+    "f8a3",
+    "e2e4",
+    "d5e4",
+    "d1e1",
+    "d8d4",
+    "f1d3",
+    "a3b4",
+    "d2e2",
+    "e4d3",
+    "c2d3",
+    "b4e1",
+    "c1d2",
+    "d4f2",
+    "e2d1",
+    "f2d2"
+  ],
+  "white": "magnusgrok",
+  "black": "OpeningsBot",
+  "timestamp": 1770829307.2603688
+}
