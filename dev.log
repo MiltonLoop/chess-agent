@@ -37,3 +37,4 @@
 2024-02-22T14:05:53 - fix move generation
 2024-02-22T11:52:52 - add game analysis
 2024-02-22T17:07:28 - add draw detection
+2024-02-23T10:27:43 - add reconnection logic
