@@ -39,3 +39,4 @@
 2024-02-22T17:07:28 - add draw detection
 2024-02-23T10:27:43 - add reconnection logic
 2024-02-23T10:58:14 - fix move generation
+2024-02-23T09:34:35 - add variant support
