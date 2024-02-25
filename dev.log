@@ -47,3 +47,4 @@
 2024-02-24T20:29:57 - stability improvements
 2024-02-24T14:02:08 - update promotion logic
 2024-02-25T14:33:02 - tune hyperparameters
+2024-02-25T09:55:24 - fix encoding bug
