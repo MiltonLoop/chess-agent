@@ -55,3 +55,4 @@
 2024-02-26T09:56:40 - update config
 2024-02-26T16:47:38 - optimize board encoding
 2024-02-27T17:13:14 - fix move generation
+2024-02-27T22:30:32 - add reconnection logic
