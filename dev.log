@@ -64,3 +64,4 @@
 2024-02-29T15:44:10 - improve evaluation function
 2024-03-01T21:44:25 - add arena evaluation
 2024-03-01T23:51:06 - fix tensor shapes
+2024-03-01T22:35:02 - optimize memory usage
