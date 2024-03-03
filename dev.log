@@ -65,3 +65,4 @@
 2024-03-01T21:44:25 - add arena evaluation
 2024-03-01T23:51:06 - fix tensor shapes
 2024-03-01T22:35:02 - optimize memory usage
+2024-03-03T21:34:35 - optimize board encoding
