@@ -92,3 +92,4 @@
 2024-03-10T14:48:13 - update self-play worker
 2024-03-11T13:18:37 - update dependencies
 2024-03-12T09:54:05 - update arena scoring
+2024-03-12T10:20:41 - refactor game loop
