@@ -216,3 +216,4 @@
 2024-04-16T15:57:32 - fix tensor shapes
 2024-04-16T21:49:42 - fix repetition handling
 2024-04-16T17:53:31 - improve evaluation function
+2024-04-16T22:05:17 - fix move generation
