@@ -230,3 +230,4 @@
 2024-04-21T23:40:44 - fix encoding bug
 2024-04-21T12:08:52 - fix en passant encoding
 2024-04-21T13:17:45 - update requirements
+2024-04-21T17:45:02 - refactor model architecture
