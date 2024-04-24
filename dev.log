@@ -240,3 +240,4 @@
 2024-04-23T15:59:01 - refactor game loop
 2024-04-23T15:39:26 - fix tensor shapes
 2024-04-24T20:59:36 - fix edge case in search
+2024-04-24T11:06:13 - refactor trainer
