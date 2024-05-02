@@ -278,3 +278,4 @@
 2024-05-02T10:37:24 - refactor encoding module
 2024-05-02T11:51:44 - add reconnection logic
 2024-05-02T20:31:39 - performance improvements
+2024-05-02T09:11:33 - add checkpoint saving
