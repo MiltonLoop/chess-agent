@@ -294,3 +294,4 @@
 2024-05-07T21:33:30 - fix tests
 2024-05-08T18:02:14 - add reconnection logic
 2024-05-08T21:28:30 - add opening book support
+2024-05-08T20:22:12 - fix encoding bug
