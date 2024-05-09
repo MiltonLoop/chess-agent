@@ -297,3 +297,4 @@
 2024-05-08T20:22:12 - fix encoding bug
 2024-05-08T11:18:01 - fix castling encoding
 2024-05-08T14:06:23 - fix en passant encoding
+2024-05-09T12:10:33 - update promotion logic
