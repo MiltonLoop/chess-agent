@@ -303,3 +303,4 @@
 2024-05-09T18:37:35 - refactor model architecture
 2024-05-10T12:56:27 - improve move selection
 2024-05-10T09:59:21 - fix checkpoint loading
+2024-05-10T21:18:20 - fix learning rate schedule
