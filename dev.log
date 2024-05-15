@@ -318,3 +318,4 @@
 2024-05-13T19:53:48 - refactor game loop
 2024-05-14T12:04:10 - fix edge case in search
 2024-05-14T17:29:34 - improve move selection
+2024-05-15T23:45:41 - fix castling encoding
