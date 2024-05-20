@@ -335,3 +335,4 @@
 2024-05-19T14:17:21 - clean up code
 2024-05-19T18:15:20 - fix encoding bug
 2024-05-19T14:17:25 - fix castling encoding
+2024-05-20T10:57:22 - add data augmentation
