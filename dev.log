@@ -395,3 +395,4 @@
 2024-06-03T22:34:40 - fix node expansion
 2024-06-04T09:28:29 - fix edge case in search
 2024-06-04T13:41:09 - add logging
+2024-06-05T20:51:49 - add reconnection logic
