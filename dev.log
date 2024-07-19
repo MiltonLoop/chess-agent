@@ -566,3 +566,4 @@
 2024-07-18T11:23:51 - fix lichess integration
 2024-07-18T15:49:42 - add opening book support
 2024-07-19T16:08:49 - add tests
+2024-07-19T21:08:40 - fix clock management
