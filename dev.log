@@ -575,3 +575,4 @@
 2024-07-20T10:25:37 - update requirements
 2024-07-20T15:29:21 - optimize board encoding
 2024-07-21T12:35:34 - update mcts parameters
+2024-07-22T09:21:58 - fix batch normalization
