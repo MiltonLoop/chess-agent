@@ -617,3 +617,4 @@
 2024-08-01T22:43:45 - improve MCTS rollouts
 2024-08-02T13:24:07 - refactor trainer
 2024-08-02T16:52:46 - fix rating calculation
+2024-08-03T21:48:17 - fix castling encoding
