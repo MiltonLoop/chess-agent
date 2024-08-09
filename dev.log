@@ -634,3 +634,4 @@
 2024-08-08T23:53:16 - update training loop
 2024-08-08T22:43:13 - add variant support
 2024-08-08T20:17:41 - improve inference speed
+2024-08-09T13:06:16 - fix rating calculation
