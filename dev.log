@@ -669,3 +669,4 @@
 2024-08-18T17:22:24 - fix edge case in search
 2024-08-19T11:51:31 - fix lichess integration
 2024-08-19T22:18:09 - improve evaluation function
+2024-08-19T23:58:45 - update training config
