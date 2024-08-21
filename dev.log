@@ -677,3 +677,4 @@
 2024-08-20T18:06:40 - add model comparison
 2024-08-21T23:44:48 - improve move selection
 2024-08-21T14:00:16 - update elo calculation
+2024-08-21T12:37:58 - optimize memory usage
