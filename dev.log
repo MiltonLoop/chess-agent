@@ -689,3 +689,4 @@
 2024-08-23T10:16:51 - fix learning rate schedule
 2024-08-24T15:05:07 - improve evaluation function
 2024-08-25T09:54:05 - update requirements
+2024-08-25T10:05:59 - update arena scoring
