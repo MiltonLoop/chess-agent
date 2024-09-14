@@ -757,3 +757,4 @@
 2024-09-13T23:12:22 - bug fixes
 2024-09-13T17:59:21 - optimize board encoding
 2024-09-13T15:36:04 - fix rating calculation
+2024-09-14T21:48:06 - fix win rate tracking
