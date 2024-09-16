@@ -767,3 +767,4 @@
 2024-09-15T20:13:39 - refactor utils
 2024-09-15T09:26:23 - fix tensor shapes
 2024-09-16T15:56:36 - fix learning rate schedule
+2024-09-16T18:20:13 - refactor model architecture
