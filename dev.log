@@ -814,3 +814,4 @@
 2024-09-29T12:04:00 - fix checkpoint loading
 2024-09-29T11:37:20 - fix move generation
 2024-09-29T14:23:54 - fix policy head
+2024-09-29T17:54:48 - add opening book support
