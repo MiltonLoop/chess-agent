@@ -874,3 +874,4 @@
 2024-10-16T14:33:32 - fix batch normalization
 2024-10-16T14:35:11 - fix UCB formula
 2024-10-16T13:01:17 - update training config
+2024-10-16T20:09:22 - improve endgame play
