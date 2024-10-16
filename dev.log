@@ -872,3 +872,4 @@
 2024-10-15T23:33:23 - code cleanup
 2024-10-15T23:49:23 - update elo calculation
 2024-10-16T14:33:32 - fix batch normalization
+2024-10-16T14:35:11 - fix UCB formula
