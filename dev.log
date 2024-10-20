@@ -890,3 +890,4 @@
 2024-10-19T22:32:59 - fix gradient clipping
 2024-10-19T21:47:31 - optimize memory usage
 2024-10-20T22:21:58 - add checkpoint saving
+2024-10-20T09:57:36 - fix UCB formula
