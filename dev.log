@@ -1000,3 +1000,4 @@
 2024-11-18T22:24:22 - update arena scoring
 2024-11-19T09:44:56 - fix en passant encoding
 2024-11-19T14:11:44 - stability improvements
+2024-11-19T18:19:10 - add tests
