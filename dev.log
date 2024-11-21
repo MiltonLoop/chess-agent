@@ -1005,3 +1005,4 @@
 2024-11-19T15:08:31 - update requirements
 2024-11-19T20:43:27 - clean up code
 2024-11-21T20:37:07 - improve evaluation function
+2024-11-21T22:52:38 - fix en passant encoding
