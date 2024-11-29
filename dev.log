@@ -1022,3 +1022,4 @@
 2024-11-27T15:11:09 - improve training stability
 2024-11-29T21:11:29 - update dirichlet noise
 2024-11-29T09:30:23 - fix win rate tracking
+2024-11-29T23:41:43 - update self-play worker
