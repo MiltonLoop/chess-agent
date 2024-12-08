@@ -1052,3 +1052,4 @@
 2024-12-08T18:52:42 - refactor encoding module
 2024-12-08T18:51:37 - fix edge case in search
 2024-12-08T12:21:48 - add parallel search
+2024-12-08T10:07:33 - add draw detection
