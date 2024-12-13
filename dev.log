@@ -1069,3 +1069,4 @@
 2024-12-13T21:58:51 - improve self-play speed
 2024-12-13T11:13:00 - update MCTS exploration
 2024-12-13T09:39:41 - fix checkpoint loading
+2024-12-13T15:00:38 - fix UCB formula
