@@ -1078,3 +1078,4 @@
 2024-12-15T10:09:16 - improve MCTS rollouts
 2024-12-15T10:55:08 - update bot logic
 2024-12-15T14:11:48 - add reconnection logic
+2024-12-15T11:00:29 - fix en passant encoding
