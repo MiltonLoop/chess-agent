@@ -1109,3 +1109,4 @@
 2024-12-23T13:44:05 - add checkpoint saving
 2024-12-23T22:39:38 - fix rating calculation
 2024-12-23T12:56:42 - improve training stability
+2024-12-24T11:47:33 - improve inference speed
