@@ -1144,3 +1144,4 @@
 2025-01-03T09:38:49 - update dirichlet noise
 2025-01-05T18:09:38 - update promotion logic
 2025-01-05T10:07:38 - refactor game loop
+2025-01-05T11:57:25 - optimize memory usage
