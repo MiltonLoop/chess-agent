@@ -1167,3 +1167,4 @@
 2025-01-11T10:07:51 - fix move generation
 2025-01-13T23:52:09 - improve evaluation function
 2025-01-13T15:11:25 - optimize board encoding
+2025-01-13T18:58:55 - improve MCTS rollouts
