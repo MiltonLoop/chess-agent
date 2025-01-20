@@ -1197,3 +1197,4 @@
 2025-01-19T11:09:41 - fix castling encoding
 2025-01-19T12:18:05 - add temperature scheduling
 2025-01-19T15:21:26 - add game analysis
+2025-01-20T16:45:01 - optimize memory usage
