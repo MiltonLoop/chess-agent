@@ -1202,3 +1202,4 @@
 2025-01-20T10:32:48 - refactor trainer
 2025-01-21T17:20:05 - add parallel search
 2025-01-21T11:29:41 - update config
+2025-01-21T10:21:39 - fix learning rate schedule
