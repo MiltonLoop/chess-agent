@@ -1208,3 +1208,4 @@
 2025-01-22T15:33:09 - add temperature scheduling
 2025-01-22T23:30:06 - update self-play worker
 2025-01-22T21:57:15 - stability improvements
+2025-01-23T22:23:18 - optimize memory usage
