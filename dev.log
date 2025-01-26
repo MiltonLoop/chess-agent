@@ -1218,3 +1218,4 @@
 2025-01-26T20:13:25 - fix en passant encoding
 2025-01-26T16:42:49 - update search depth
 2025-01-26T17:02:57 - fix repetition handling
+2025-01-26T12:23:44 - add checkpoint saving
