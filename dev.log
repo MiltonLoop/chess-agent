@@ -1259,3 +1259,4 @@
 2025-02-03T17:31:57 - update move formatting
 2025-02-04T10:33:16 - update docs
 2025-02-04T23:50:58 - fix en passant encoding
+2025-02-04T10:38:56 - fix gradient clipping
