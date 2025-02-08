@@ -1277,3 +1277,4 @@
 2025-02-07T23:10:49 - fix encoding bug
 2025-02-08T15:06:35 - update requirements
 2025-02-08T20:46:28 - improve endgame play
+2025-02-08T12:13:41 - fix tensor shapes
