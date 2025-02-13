@@ -1303,3 +1303,4 @@
 2025-02-13T17:31:27 - add temperature scheduling
 2025-02-13T16:47:37 - fix batch normalization
 2025-02-13T17:48:57 - improve data pipeline
+2025-02-13T21:30:16 - fix encoding bug
