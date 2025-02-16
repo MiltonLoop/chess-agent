@@ -1310,3 +1310,4 @@
 2025-02-15T11:31:50 - update elo calculation
 2025-02-15T11:17:16 - add logging
 2025-02-16T23:10:00 - update move formatting
+2025-02-16T18:31:54 - fix checkpoint loading
