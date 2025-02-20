@@ -1319,3 +1319,4 @@
 2025-02-20T11:10:07 - fix batch normalization
 2025-02-20T16:55:42 - fix edge case in search
 2025-02-20T22:51:47 - improve inference speed
+2025-02-20T18:23:31 - fix gradient clipping
