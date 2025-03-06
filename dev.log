@@ -1375,3 +1375,4 @@
 2025-03-06T18:02:32 - optimize board encoding
 2025-03-06T20:58:02 - fix en passant encoding
 2025-03-06T15:50:37 - improve training stability
+2025-03-06T16:43:49 - fix repetition handling
