@@ -1374,3 +1374,4 @@
 2025-03-05T20:25:27 - update API calls
 2025-03-06T18:02:32 - optimize board encoding
 2025-03-06T20:58:02 - fix en passant encoding
+2025-03-06T15:50:37 - improve training stability
