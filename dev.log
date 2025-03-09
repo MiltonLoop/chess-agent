@@ -1379,3 +1379,4 @@
 2025-03-07T23:58:40 - add checkpoint saving
 2025-03-07T22:51:12 - fix clock management
 2025-03-08T19:42:11 - refactor game loop
+2025-03-09T21:10:47 - update self-play worker
