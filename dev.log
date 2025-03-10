@@ -1387,3 +1387,4 @@
 2025-03-10T22:09:12 - update dependencies
 2025-03-10T09:21:55 - update mcts parameters
 2025-03-10T15:30:58 - add variant support
+2025-03-10T20:02:00 - fix lichess integration
