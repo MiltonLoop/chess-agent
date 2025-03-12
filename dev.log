@@ -1389,3 +1389,4 @@
 2025-03-10T15:30:58 - add variant support
 2025-03-10T20:02:00 - fix lichess integration
 2025-03-11T22:56:13 - update mcts parameters
+2025-03-12T13:11:03 - refactor model architecture
