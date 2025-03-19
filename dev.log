@@ -1415,3 +1415,4 @@
 2025-03-18T21:35:03 - add data augmentation
 2025-03-18T10:01:37 - fix win rate tracking
 2025-03-19T18:13:31 - update training config
+2025-03-19T12:45:06 - fix en passant encoding
