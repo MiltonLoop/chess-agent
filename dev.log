@@ -1434,3 +1434,4 @@
 2025-03-23T18:38:54 - minor fixes
 2025-03-23T18:57:46 - improve training stability
 2025-03-24T20:06:55 - fix UCB formula
+2025-03-24T22:40:43 - fix node expansion
