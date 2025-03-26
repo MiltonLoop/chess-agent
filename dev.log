@@ -1438,3 +1438,4 @@
 2025-03-24T22:16:07 - refactor encoding module
 2025-03-25T16:29:10 - update promotion logic
 2025-03-26T22:27:18 - fix castling encoding
+2025-03-26T20:11:04 - add checkpoint saving
