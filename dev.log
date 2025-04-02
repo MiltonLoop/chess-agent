@@ -1466,3 +1466,4 @@
 2025-04-01T10:28:19 - add draw detection
 2025-04-02T10:34:20 - fix time management
 2025-04-02T17:53:43 - improve evaluation function
+2025-04-02T13:56:56 - refactor trainer
