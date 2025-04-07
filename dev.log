@@ -1483,3 +1483,4 @@
 2025-04-06T18:11:00 - update value network
 2025-04-06T14:52:23 - update arena scoring
 2025-04-07T17:15:14 - fix gradient clipping
+2025-04-07T18:10:37 - fix learning rate schedule
