@@ -1494,3 +1494,4 @@
 2025-04-11T14:45:10 - fix move generation
 2025-04-11T16:39:23 - update bot logic
 2025-04-12T18:03:38 - refactor game loop
+2025-04-12T23:50:19 - add checkpoint saving
