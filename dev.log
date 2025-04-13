@@ -1496,3 +1496,4 @@
 2025-04-12T18:03:38 - refactor game loop
 2025-04-12T23:50:19 - add checkpoint saving
 2025-04-12T09:31:25 - refactor trainer
+2025-04-13T13:19:58 - fix batch normalization
