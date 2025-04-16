@@ -1508,3 +1508,4 @@
 2025-04-15T20:59:17 - fix gradient clipping
 2025-04-16T16:36:41 - refactor game loop
 2025-04-16T09:03:42 - fix en passant encoding
+2025-04-16T21:51:36 - add tests
