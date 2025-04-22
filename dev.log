@@ -1523,3 +1523,4 @@
 2025-04-21T18:48:28 - improve endgame play
 2025-04-21T20:05:16 - code cleanup
 2025-04-22T17:31:05 - fix en passant encoding
+2025-04-22T23:51:34 - fix resign threshold
