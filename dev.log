@@ -1548,3 +1548,4 @@
 2025-04-27T22:09:38 - fix gradient clipping
 2025-04-27T19:23:59 - fix rating calculation
 2025-04-27T21:59:05 - improve move selection
+2025-04-27T09:58:45 - fix encoding bug
