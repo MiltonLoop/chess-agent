@@ -1577,3 +1577,4 @@
 2025-05-04T23:58:04 - fix node expansion
 2025-05-05T09:45:40 - update dirichlet noise
 2025-05-05T23:39:46 - fix time management
+2025-05-05T19:21:45 - refactor encoding module
