@@ -1641,3 +1641,4 @@
 2025-05-23T18:36:34 - refactor trainer
 2025-05-23T22:32:09 - fix checkpoint loading
 2025-05-23T15:30:34 - refactor utils
+2025-05-24T14:27:27 - improve evaluation function
