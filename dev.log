@@ -1665,3 +1665,4 @@
 2025-05-30T15:32:04 - fix tensor shapes
 2025-05-30T09:31:22 - fix clock management
 2025-05-30T11:44:41 - refactor trainer
+2025-05-31T17:06:05 - fix en passant encoding
