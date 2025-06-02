@@ -1674,3 +1674,4 @@
 2025-06-01T12:53:29 - fix rating calculation
 2025-06-01T11:25:33 - tune hyperparameters
 2025-06-01T12:34:55 - improve data pipeline
+2025-06-02T22:28:16 - refactor utils
