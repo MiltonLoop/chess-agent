@@ -1684,3 +1684,4 @@
 2025-06-03T12:07:29 - update API calls
 2025-06-03T23:34:23 - improve training stability
 2025-06-03T12:07:32 - update dirichlet noise
+2025-06-03T15:15:56 - fix en passant encoding
