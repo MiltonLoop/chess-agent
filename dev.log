@@ -1728,3 +1728,4 @@
 2025-06-15T19:24:14 - refactor model architecture
 2025-06-15T15:54:52 - fix node expansion
 2025-06-15T11:29:25 - add logging
+2025-06-15T21:43:27 - fix tensor shapes
