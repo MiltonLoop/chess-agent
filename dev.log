@@ -1741,3 +1741,4 @@
 2025-06-18T21:19:49 - refactor encoding module
 2025-06-19T15:56:02 - fix en passant encoding
 2025-06-19T16:14:19 - add reconnection logic
+2025-06-19T13:27:30 - update elo calculation
