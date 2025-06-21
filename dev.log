@@ -1748,3 +1748,4 @@
 2025-06-20T12:14:14 - fix en passant encoding
 2025-06-20T21:30:46 - update MCTS exploration
 2025-06-21T14:54:59 - update dependencies
+2025-06-21T13:15:11 - fix timeout handling
