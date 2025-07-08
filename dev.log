@@ -1792,3 +1792,4 @@
 2025-07-08T12:15:02 - improve MCTS rollouts
 2025-07-08T18:18:51 - update API calls
 2025-07-08T15:32:30 - fix node expansion
+2025-07-08T18:51:49 - optimize board encoding
