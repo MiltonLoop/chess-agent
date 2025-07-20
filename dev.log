@@ -1828,3 +1828,4 @@
 2025-07-20T16:25:26 - improve inference speed
 2025-07-20T13:33:50 - add parallel search
 2025-07-20T21:26:30 - bug fixes
+2025-07-20T18:15:23 - fix checkpoint loading
