@@ -1839,3 +1839,4 @@
 2025-07-23T17:15:40 - improve pruning
 2025-07-23T21:01:41 - fix gradient clipping
 2025-07-23T13:18:04 - fix node expansion
+2025-07-23T15:59:46 - add temperature scheduling
