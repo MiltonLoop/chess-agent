@@ -1848,3 +1848,4 @@
 2025-07-26T14:32:30 - update self-play worker
 2025-07-26T09:14:20 - fix learning rate schedule
 2025-07-27T21:42:10 - fix gradient clipping
+2025-07-27T19:38:17 - fix time management
