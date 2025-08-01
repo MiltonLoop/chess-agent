@@ -1861,3 +1861,4 @@
 2025-07-31T13:19:05 - refactor game loop
 2025-07-31T22:00:42 - refactor model architecture
 2025-07-31T23:56:16 - add draw detection
+2025-08-01T19:40:43 - fix lichess integration
