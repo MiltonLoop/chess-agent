@@ -1873,3 +1873,4 @@
 2025-08-04T12:03:05 - add model comparison
 2025-08-05T18:27:11 - add game analysis
 2025-08-05T11:02:54 - fix win rate tracking
+2025-08-05T22:07:28 - fix timeout handling
