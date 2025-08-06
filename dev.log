@@ -1879,3 +1879,4 @@
 2025-08-05T13:22:08 - fix win rate tracking
 2025-08-05T11:39:49 - add logging
 2025-08-06T10:01:11 - improve MCTS rollouts
+2025-08-06T23:28:16 - improve self-play speed
