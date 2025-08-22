@@ -1927,3 +1927,4 @@
 2025-08-21T19:10:38 - update mcts parameters
 2025-08-21T19:10:21 - fix clock management
 2025-08-21T10:29:28 - update requirements
+2025-08-22T11:59:30 - fix rating calculation
