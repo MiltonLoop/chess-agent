@@ -1932,3 +1932,4 @@
 2025-08-22T09:45:02 - optimize board encoding
 2025-08-22T16:48:47 - fix castling encoding
 2025-08-22T23:14:58 - fix policy head
+2025-08-23T13:36:05 - add data augmentation
