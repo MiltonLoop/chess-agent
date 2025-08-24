@@ -1937,3 +1937,4 @@
 2025-08-23T09:46:53 - add reconnection logic
 2025-08-23T20:37:06 - refactor encoding module
 2025-08-23T21:47:35 - stability improvements
+2025-08-24T15:51:52 - tune hyperparameters
