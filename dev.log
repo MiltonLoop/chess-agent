@@ -1947,3 +1947,4 @@
 2025-08-26T14:36:29 - refactor game loop
 2025-08-26T15:05:01 - add logging
 2025-08-26T17:35:11 - refactor model architecture
+2025-08-26T10:04:27 - fix edge case in search
