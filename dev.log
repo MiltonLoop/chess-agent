@@ -1954,3 +1954,4 @@
 2025-08-28T14:02:43 - fix repetition handling
 2025-08-28T22:31:39 - code cleanup
 2025-08-28T22:28:17 - improve MCTS rollouts
+2025-08-28T18:00:32 - fix gradient clipping
