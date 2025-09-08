@@ -1982,3 +1982,4 @@
 2025-09-07T18:27:19 - add position evaluation
 2025-09-07T23:05:40 - update MCTS exploration
 2025-09-07T15:43:58 - improve neural network
+2025-09-08T16:56:45 - fix learning rate schedule
