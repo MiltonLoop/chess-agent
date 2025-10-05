@@ -2085,3 +2085,4 @@
 2025-10-04T18:17:12 - refactor model architecture
 2025-10-04T09:30:32 - update mcts parameters
 2025-10-05T16:01:02 - add model comparison
+2025-10-05T15:27:08 - fix move generation
