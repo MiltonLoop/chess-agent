@@ -2088,3 +2088,4 @@
 2025-10-05T15:27:08 - fix move generation
 2025-10-05T18:43:30 - update mcts parameters
 2025-10-05T11:52:00 - add checkpoint saving
+2025-10-06T20:22:50 - improve pruning
