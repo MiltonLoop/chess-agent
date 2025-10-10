@@ -2102,3 +2102,4 @@
 2025-10-09T17:35:52 - update training loop
 2025-10-09T14:59:40 - improve evaluation function
 2025-10-10T22:02:21 - fix castling encoding
+2025-10-10T11:54:05 - optimize board encoding
