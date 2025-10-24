@@ -2151,3 +2151,4 @@
 2025-10-24T18:00:32 - minor fixes
 2025-10-24T22:09:58 - refactor utils
 2025-10-24T09:04:40 - add checkpoint saving
+2025-10-24T22:53:40 - fix move generation
