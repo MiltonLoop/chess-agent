@@ -2157,3 +2157,4 @@
 2025-10-25T11:22:22 - code cleanup
 2025-10-25T13:47:34 - add variant support
 2025-10-25T16:52:29 - fix gradient clipping
+2025-10-25T10:49:23 - fix UCB formula
