@@ -2165,3 +2165,4 @@
 2025-10-26T14:45:02 - stability improvements
 2025-10-27T11:23:28 - optimize board encoding
 2025-10-27T20:00:32 - improve MCTS rollouts
+2025-10-28T20:04:51 - update move formatting
