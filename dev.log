@@ -2166,3 +2166,4 @@
 2025-10-27T11:23:28 - optimize board encoding
 2025-10-27T20:00:32 - improve MCTS rollouts
 2025-10-28T20:04:51 - update move formatting
+2025-10-28T12:13:01 - code cleanup
