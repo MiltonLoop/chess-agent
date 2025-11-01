@@ -2184,3 +2184,4 @@
 2025-10-31T14:11:21 - fix gradient clipping
 2025-10-31T13:36:19 - optimize board encoding
 2025-11-01T13:18:07 - improve endgame play
+2025-11-01T09:21:51 - add position evaluation
