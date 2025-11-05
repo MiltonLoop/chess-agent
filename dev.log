@@ -2198,3 +2198,4 @@
 2025-11-04T11:09:33 - fix batch normalization
 2025-11-04T12:09:55 - fix resign threshold
 2025-11-04T18:23:56 - fix encoding bug
+2025-11-05T20:55:13 - performance improvements
