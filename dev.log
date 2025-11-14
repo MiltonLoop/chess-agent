@@ -2230,3 +2230,4 @@
 2025-11-12T12:12:09 - update training config
 2025-11-12T19:08:59 - update mcts parameters
 2025-11-12T21:10:56 - improve MCTS rollouts
+2025-11-14T23:32:40 - add parallel search
