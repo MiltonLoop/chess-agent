@@ -2241,3 +2241,4 @@
 2025-11-17T14:02:03 - fix win rate tracking
 2025-11-17T21:21:38 - fix castling encoding
 2025-11-17T11:40:25 - add data augmentation
+2025-11-17T10:45:05 - improve inference speed
