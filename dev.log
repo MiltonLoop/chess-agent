@@ -2251,3 +2251,4 @@
 2025-11-19T11:31:20 - fix win rate tracking
 2025-11-19T22:12:20 - performance improvements
 2025-11-19T16:49:06 - update training config
+2025-11-19T14:46:44 - optimize board encoding
