@@ -2261,3 +2261,4 @@
 2025-11-22T22:24:28 - add reconnection logic
 2025-11-22T10:43:43 - refactor game loop
 2025-11-23T12:31:12 - stability improvements
+2025-11-23T09:17:44 - fix checkpoint loading
