@@ -2284,3 +2284,4 @@
 2025-11-28T20:29:11 - fix en passant encoding
 2025-11-28T10:35:02 - fix tensor shapes
 2025-11-28T23:46:10 - add game analysis
+2025-11-28T13:36:06 - stability improvements
