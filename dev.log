@@ -2286,3 +2286,4 @@
 2025-11-28T23:46:10 - add game analysis
 2025-11-28T13:36:06 - stability improvements
 2025-11-29T09:51:14 - fix move generation
+2025-11-29T11:33:20 - tune hyperparameters
