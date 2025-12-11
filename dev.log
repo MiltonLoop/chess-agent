@@ -2323,3 +2323,4 @@
 2025-12-11T09:45:42 - fix time management
 2025-12-11T18:47:02 - update training config
 2025-12-11T09:48:13 - update MCTS exploration
+2025-12-11T15:01:42 - add variant support
