@@ -2328,3 +2328,4 @@
 2025-12-12T12:57:19 - update requirements
 2025-12-12T15:48:33 - update training loop
 2025-12-12T20:31:23 - fix tensor shapes
+2025-12-13T09:40:56 - clean up code
