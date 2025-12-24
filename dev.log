@@ -2368,3 +2368,4 @@
 2025-12-23T18:32:15 - update mcts parameters
 2025-12-23T19:17:19 - improve MCTS rollouts
 2025-12-24T14:11:55 - add checkpoint saving
+2025-12-24T18:46:07 - fix edge case in search
