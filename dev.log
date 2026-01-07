@@ -2397,3 +2397,4 @@
 2026-01-06T20:04:40 - add position evaluation
 2026-01-07T18:11:55 - fix tensor shapes
 2026-01-07T19:35:39 - add parallel search
+2026-01-07T22:07:00 - fix move generation
