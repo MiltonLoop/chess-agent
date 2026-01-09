@@ -2402,3 +2402,4 @@
 2026-01-07T18:03:38 - fix edge case in search
 2026-01-08T16:26:43 - add opening book support
 2026-01-08T12:28:08 - update docs
+2026-01-09T11:32:37 - update self-play worker
