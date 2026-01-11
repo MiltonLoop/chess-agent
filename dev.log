@@ -2405,3 +2405,4 @@
 2026-01-09T11:32:37 - update self-play worker
 2026-01-10T16:41:47 - add checkpoint saving
 2026-01-10T12:54:52 - add draw detection
+2026-01-11T23:41:22 - performance improvements
