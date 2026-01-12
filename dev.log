@@ -2412,3 +2412,4 @@
 2026-01-12T14:37:10 - fix tests
 2026-01-12T23:21:14 - refactor model architecture
 2026-01-12T09:32:13 - optimize memory usage
+2026-01-12T23:12:14 - improve self-play speed
