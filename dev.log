@@ -2429,3 +2429,4 @@
 2026-01-17T18:34:59 - improve inference speed
 2026-01-17T12:04:58 - fix win rate tracking
 2026-01-17T11:02:01 - fix resign threshold
+2026-01-17T13:18:36 - add parallel search
