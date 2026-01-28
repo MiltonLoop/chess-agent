@@ -2464,3 +2464,4 @@
 2026-01-28T17:08:34 - minor fixes
 2026-01-28T21:44:39 - fix repetition handling
 2026-01-28T15:26:34 - add draw detection
+2026-01-28T10:04:36 - update self-play worker
