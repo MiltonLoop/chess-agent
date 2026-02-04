@@ -2489,3 +2489,4 @@
 2026-02-04T18:48:03 - fix gradient clipping
 2026-02-04T09:55:34 - add arena evaluation
 2026-02-04T09:45:32 - improve MCTS rollouts
+2026-02-04T21:27:45 - stability improvements
