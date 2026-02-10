@@ -2510,3 +2510,4 @@
 2026-02-09T17:40:16 - fix checkpoint loading
 2026-02-09T19:47:04 - add parallel search
 2026-02-09T10:51:26 - update dependencies
+2026-02-10T23:06:40 - optimize board encoding
